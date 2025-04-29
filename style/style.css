@@ -33,9 +33,18 @@ body{
 
 /* navbar  */
 /* banner  */
+#banner{
+  padding: 50px 0;
+}
 .banner img{
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+#banner .banner h2{
+  margin: 20px 0;
+}
+#banner .sidebar p{
+  margin-top: 10px;
 }
 /* banner  */
