@@ -1,0 +1,29 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+a{
+  text-decoration: none;
+  color: inherit;
+}
+ul li{
+  list-style: none;
+}
+body{
+  background-color:#F9F9F9;
+}
+:root{
+  --orange: #F08F64;
+}
+/* navbar  */
+.main-nav{
+  background-color: #ffff;
+  padding: 15px 15px;
+  margin-top: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+} 
+
+/* navbar  */
