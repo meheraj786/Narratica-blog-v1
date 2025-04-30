@@ -48,3 +48,44 @@ body{
   margin-top: 10px;
 }
 /* banner  */
+/* news-categories */
+#news-categories{
+  padding: 50px 0;
+}
+.business-category{
+  background: url(../images/pexels-joyanne-1186116.jpg) no-repeat center center/cover;
+  display: flex;
+  align-items: flex-end;
+width: 240px;
+height: 320px;
+  border-radius: 5px;
+  padding: 10px;
+}
+.health-category{
+  background: url(../images/pexels-pixabay-209977.jpg) no-repeat center center/cover;
+  display: flex;
+  align-items: flex-end;
+width: 240px;
+height: 320px;
+  border-radius: 5px;
+  padding: 10px;
+}
+.sports-category{
+  background: url(../images/pexels-pixabay-209977.jpg) no-repeat center center/cover;
+  display: flex;
+  align-items: flex-end;
+width: 240px;
+height: 320px;
+  border-radius: 5px;
+  padding: 10px;
+}
+.world-category{
+  background: url(../images/pexels-pixabay-209977.jpg) no-repeat center center/cover;
+  display: flex;
+  align-items: flex-end;
+width: 240px;
+height: 320px;
+  border-radius: 5px;
+  padding: 10px;
+}
+/* news-categories */
