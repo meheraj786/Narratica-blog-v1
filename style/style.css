@@ -20,6 +20,7 @@ body{
 .category-button{
   padding: 8px 20px;
   border-radius: 5px;
+  color: #ffff;
 }
 .world-category-button{
   background: #6641EE;
