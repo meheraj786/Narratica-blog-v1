@@ -70,23 +70,30 @@ body{
 #news-categories{
   padding: 50px 0;
 }
+#news-categories h4{
+  color: #ffffff;
+  background: rgba(190, 185, 185, 0.308);
+  width: 100%;
+  backdrop-filter: blur(5px);
+  margin: 0;
+  font-size: 18px;
+  padding: 20px 20px;
+}
 .business-category{
-  background: url(../images/pexels-joyanne-1186116.jpg) no-repeat center center/cover;
+  background: url(../images/pexels-goumbik-669610.jpg) no-repeat center center/cover;
   display: flex;
   align-items: flex-end;
 width: 240px;
 height: 320px;
   border-radius: 5px;
-  padding: 10px;
 }
 .health-category{
-  background: url(../images/pexels-pixabay-209977.jpg) no-repeat center center/cover;
+  background: url(../images/pexels-pixabay-40568.jpg) no-repeat center center/cover;
   display: flex;
   align-items: flex-end;
 width: 240px;
 height: 320px;
   border-radius: 5px;
-  padding: 10px;
 }
 .sports-category{
   background: url(../images/pexels-pixabay-209977.jpg) no-repeat center center/cover;
@@ -95,16 +102,22 @@ height: 320px;
 width: 240px;
 height: 320px;
   border-radius: 5px;
-  padding: 10px;
 }
 .world-category{
-  background: url(../images/pexels-pixabay-209977.jpg) no-repeat center center/cover;
+  background: url(../images/pexels-nurseryart-346885.jpg) no-repeat center center/cover;
   display: flex;
   align-items: flex-end;
 width: 240px;
 height: 320px;
   border-radius: 5px;
-  padding: 10px;
+}
+.culture-category{
+  background: url(../images/pexels-joyanne-1186116.jpg) no-repeat center center/cover;
+  display: flex;
+  align-items: flex-end;
+width: 240px;
+height: 320px;
+  border-radius: 5px;
 }
 /* news-categories */
 /* editors pick  */
