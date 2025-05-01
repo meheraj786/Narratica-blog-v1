@@ -134,13 +134,19 @@ height: 320px;
   padding: 30px;
   width: 100%;
 }
+.editors-pick-left h4{ 
+  font-size: 22px;
+  font-weight: 600;
+}
+.editors-pick-left p{ 
+  font-size: 18px;
+}
 .editors-pick-left .news-desk{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
   gap: 20px;
-
 }
 .editors-pick-right{
   background: url(../images/pexels-jibarofoto-2774556.jpg) no-repeat center center/cover;
