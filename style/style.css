@@ -20,7 +20,24 @@ body{
 .category-button{
   padding: 8px 20px;
   border-radius: 5px;
-  background-color: #F08F64;
+}
+.world-category-button{
+  background: #6641EE;
+}
+.business-category-button{
+  background: #E3C034;
+}
+.tech-category-button{
+  background: #E74C3C;
+}
+.culture-category-button{
+  background: #38ADE8;
+}
+.health-category-button{
+  background: #32D255;
+}
+.sports-category-button{
+  background: #E8493A;
 }
 /* navbar  */
 .main-nav{
