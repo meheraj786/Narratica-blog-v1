@@ -240,3 +240,37 @@ margin: 30px 0 ;
   justify-content: space-between;
 }
 /* podcast  */
+/* footer */
+#footer{
+  padding: 50px 0;
+  background: #000;
+  color: #ffff;
+}
+#footer input{
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  margin: 20px 0;
+}
+#footer button{
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  background-color: var(--orange);
+  color: #000;
+}
+#footer .footer-list{
+  margin: 40px 0;
+}
+#footer .footer-list ul li{
+  opacity: 0.7;
+}
+#footer .footer-list ul li:first-child{
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  opacity: 100%;
+}
+/* footer */
